@@ -10,7 +10,7 @@ In our experiments, we used four different, publicly available biomedical named 
 
 1. Data Preprocessing: For data preprocessing, run the Data Preprocessing notebook.
 
-2. Baseline Model: For creating the baseline model, run the BiLSTM_CRF notebook.
+2. Baseline Model: For creating the baseline model, run the BiLSTM-CRF notebook.
 
 3. Asymmetric Model: For running the proposed model, run the Asymmetric Tritraining notebook.
 
